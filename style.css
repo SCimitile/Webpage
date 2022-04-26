@@ -1,0 +1,151 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background: #1F2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+
+.up {
+    background: #1F2937;
+    color: #F9FaF8;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 250px 80px 250px;
+}
+
+#logo {
+    height: 80px;
+    width: auto;
+}
+
+.image {
+    height: 150px;
+    width: 225px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 10px;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 150px;
+}
+
+.image-footer {
+    width: 200px;
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 1000;
+    color: #f9faf8;
+    margin-bottom: -10px;
+    width: 200px;
+}
+
+.img-main {
+    height: 300px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.second-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.second-title {
+    font-size: 36px;
+    font-weight: 1000;
+    color: #1F2937;
+    text-align: center;
+    margin: 50px;
+}
+
+.button {
+    background-color: #3882f6;
+    color: #F9FaF8;
+    padding: 8px 38px 8px 38px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    padding: 150px 280px 0px 280px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quoter {
+    font-weight: bolder;
+    font-size: 24px;
+    padding-bottom: 150px;
+    margin-top: -20px;
+    margin-left: 550px;
+}
+
+.below {
+    background-color: #e5e7eb;
+    text-align: center;
+}
+
+.footer {
+    background-color: #F9FaF8;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-top: -25px;
+}
+
+.footer-text {
+    display: block;
+    padding: 20px 40px 20px 40px;
+}
+
+.container {
+    display: flex;
+    background-color: #3882f6;
+    justify-content: space-around;
+    border-radius: 10px;
+    color: #F9FaF8;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.first {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.second {
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+#two.button {
+    border-color: #F9FaF8;
+    border-style: solid;
+    margin: 40px;
+}
